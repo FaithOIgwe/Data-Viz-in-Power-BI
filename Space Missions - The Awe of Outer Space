@@ -19,14 +19,17 @@ but you will also understand the beauty of outer space and the impact on humanit
 This dataset was gotten from Maven Analytics and contains the following columns:
 
 1.	The company column which contains the records of companies that have participated in the space missions
-2.	The Date: This column contains the dates for each mission
-3.	The Time: This column contains the time for each mission
-4.	The Rocket:  It shows the names of the rockets used for each mission
-5.	The Mission:  Shows the title or name of each rocket
-6.	Rocket status: Shows the status of the rockets, if it is still in service or has retired or no longer in use
-7.	Price:  Shows the price of each mission
-8.	Mission Status: This column shows if the mission was successful or not successful
-9.	Location: Shows the location in which the rockets was launched.
+2.	**The Date:** This column contains the dates for each mission
+3.	**The Time:** This column contains the time for each mission
+4.	**The Rocket:**  It shows the names of the rockets used for each mission
+5.	**The Mission:**  Shows the title or name of each rocket
+6.	**Rocket status:** Shows the status of the rockets, if it is still in service or has retired or no longer in use
+7.	**Price:**  Shows the price of each mission
+8.	**Mission Status:** This column shows if the mission was successful or not successful
+9.	**Location:** Shows the location in which the rockets was launched.
+
+
+
 
 Now we have identified the different columns represented in the dataset, we will further look at the steps I took in making the data ready for analysis – 
 In analytical terms These steps are called Data Cleaning and Modelling.
