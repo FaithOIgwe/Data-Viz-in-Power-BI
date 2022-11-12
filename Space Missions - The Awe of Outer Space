@@ -1,0 +1,32 @@
+## INTRODUCTION AND PROBLEM STATEMENT 
+
+Humans have always been curious creatures who seek to explore beyond their expected demographic this curiosity has led to a lot achievements which has not only
+made life a lot easier but has led to discoveries that would revolutionize how we live and give us more options for habitations beyond our present habitable
+planet that is Earth. This planetary curiosity is the platform in which space missions was birthed. 
+In this project, I thought to carry out an exploratory analysis of space missions from (1957 -2022) and to build a captivating story behind space missions
+using the following parameters;
+•	How many space missions have been carried out between 1957-20220
+•	How many countries have participated in this space discoveries
+•	How many rockets have been deployed
+•	How many companies have been involved
+•	Total amount spent on space travels
+•	What is the success and failure rate, is there a reason why
+•	What are the Top 5 countries, companies, and rockets that have participated in space missions
+•	Average money on space spent across years on space missions
+
+We will further dive deeper into other space mission knowledge and at the end of this project you will not only have developed a love for outer space 
+but you will also understand the beauty of outer space and the impact on humanity at large.
+This dataset was gotten from Maven Analytics and contains the following columns:
+
+1.	The company column which contains the records of companies that have participated in the space missions
+2.	The Date: This column contains the dates for each mission
+3.	The Time: This column contains the time for each mission
+4.	The Rocket:  It shows the names of the rockets used for each mission
+5.	The Mission:  Shows the title or name of each rocket
+6.	Rocket status: Shows the status of the rockets, if it is still in service or has retired or no longer in use
+7.	Price:  Shows the price of each mission
+8.	Mission Status: This column shows if the mission was successful or not successful
+9.	Location: Shows the location in which the rockets was launched.
+
+Now we have identified the different columns represented in the dataset, we will further look at the steps I took in making the data ready for analysis – 
+In analytical terms These steps are called Data Cleaning and Modelling.
